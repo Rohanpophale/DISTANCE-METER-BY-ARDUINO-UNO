@@ -1,5 +1,16 @@
 # DISTANCE-METER-BY-ARDUINO-UNO
+<h3>TITAL</h3>
 
-IT IS IOT BASED PROJECT IN WHICH I USED THE ARDUINO UNO AS A MAIN MOTHER BOARD, HCSRO4 SENSER FOR MEASURING THE DISTANCE AND 16x2 LCD DISPLAY FOR DISPLAY THE DISTANCE
-AND 10K POTENTIOMETER FOR ADJESTING THE BRIGHTNESS OF THE LCD DISPLAY. 
-IT IS A VERY EASY PROJECT WHICH YOU CAN USE AS FINAL YEAR PROJECT OR AS A MINI PROJECT TOO.
+DISTANCE METER BY ARDUINO UNO
+
+<h3>INTRODUCTION</h3>
+
+The provided Arduino code is designed to create a distance meter using an Arduino Uno, a LiquidCrystal display, and an ultrasonic sensor. The system measures the distance of an object from the sensor and displays it on the LCD screen. This introduction will provide a general overview of the code and its functionality.
+
+<h3>METHODOLOGY</h3>
+
+![PROCESS FLOW](https://github.com/Rohanpophale/DISTANCE-METER-BY-ARDUINO-UNO/assets/97818946/7f2675f7-ed46-4155-8bf5-c49848b00a1d)
+
+<h3>RESULT</h3>
+
+![LIVE DIAGRAM](https://github.com/Rohanpophale/DISTANCE-METER-BY-ARDUINO-UNO/assets/97818946/6f3e0146-c179-4d9d-90d7-4bfd93dac95d)
